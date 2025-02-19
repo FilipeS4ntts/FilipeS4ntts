@@ -6,7 +6,7 @@
 
 - 📈 Ja fiz centenas de projetos dentro e fora do colégio, tenho amplo conhecimento além de programar como artista e a língua inglesa!
 
-- ❤️ Amante da programação, jogos indies!!!
+- ❤️ Amante da programação e de jogos indies!!!
 
 - 💬 Email profissional: filipesantanawrk@gmail.com
 
