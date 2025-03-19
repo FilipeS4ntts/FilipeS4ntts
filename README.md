@@ -8,6 +8,6 @@
 
 - ❤️ Amante da programação e de jogos indies!!!
 
-- 💬 Email profissional: filipesantanawrk@gmail.com
+- 💬 Email de contato: filipesantanawrk@gmail.com
 
 
