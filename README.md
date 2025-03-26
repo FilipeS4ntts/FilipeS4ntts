@@ -1,4 +1,4 @@
-
+![Wave Top](https://capsule-render.vercel.app/api?type=waving&color=0:6A0572,100:A45EE5&height=150&section=header&customColorList=true&animation=fadeIn&fontAlign=50)
 <h1 align="center">Olá sou Filipe Santana👋</h1>
 
 <p align="center">
@@ -24,10 +24,14 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
+![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
 
 ### Ferramentas e Design
 
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
+![Krita](https://img.shields.io/badge/-Krita-000000?style=flat&logo=krita)
+![Canva](https://img.shields.io/badge/-Canva-000000?style=flat&logo=canva)
+![IbisPaint](https://img.shields.io/badge/-IbisPaint-000000?style=flat&logo=ibispaint)
 
 # 🌐Midia Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipesantanawrk/)
@@ -54,7 +58,7 @@ Estou em busca de uma oportunidade para aplicar meus conhecimentos em **C#**, **
 - **Resolução de Problemas**: Mentalidade focada em resolver problemas de maneira eficiente e eficaz.
 - **Desejo de Aprender**: Sempre pronto para aprender novas tecnologias e me adaptar às necessidades do mercado.
 
-
+![Wave Bottom](https://capsule-render.vercel.app/api?type=waving&color=0:A45EE5,100:6A0572&height=150&section=footer)
 
 
 
