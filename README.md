@@ -1,5 +1,4 @@
-![Wave Top](https://capsule-render.vercel.app/api?type=waving&color=0:6A0572,100:A45EE5&height=150&section=header&customColorList=true&animation=fadeIn&fontAlign=50)
-<h1 align="center">Olá sou Filipe Santana👋</h1>
+![Wave Top](https://capsule-render.vercel.app/api?type=waving&color=0:6A0572,100:A45EE5&height=200&section=header&text=Filipe%20Santana%20%7C%20Full%20Stack%20Developer&fontSize=40&fontColor=ffffff&fontAlignY=40)
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
