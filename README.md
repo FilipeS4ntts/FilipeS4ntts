@@ -54,17 +54,7 @@ Estou em busca de uma oportunidade para aplicar meus conhecimentos em **C#**, **
 - **Resolução de Problemas**: Mentalidade focada em resolver problemas de maneira eficiente e eficaz.
 - **Desejo de Aprender**: Sempre pronto para aprender novas tecnologias e me adaptar às necessidades do mercado.
 
----
 
-### 🌱 Vamos trabalhar juntos?
-
-Estou em busca de um estágio onde eu possa continuar a minha jornada de aprendizado e crescimento. Se você valoriza a inovação e o trabalho em equipe, adoraria fazer parte do seu time!
-
-Estou disposto a ajudar a empresa a crescer e aprender com os desafios que surgirem. Entre em contato comigo para discutirmos como posso contribuir!
-
----
-
-**"O aprendizado contínuo é a chave para o sucesso!"**
 
 
 
