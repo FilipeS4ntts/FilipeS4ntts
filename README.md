@@ -15,13 +15,19 @@
 
 - 📈 Ja fiz centenas de projetos dentro e fora do colégio, tenho amplo conhecimento além de programar, sou artista e tenho como conhecimento língua inglesa!
 
- ##### Linguagens que uso
+### Linguagens que uso
 
 ![C#](https://img.shields.io/badge/-C%23-000000?style=flat&logo=csharp)
 ![Swift](https://img.shields.io/badge/-Swift-000000?style=flat&logo=swift)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kotlin)
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 
+### Ferramentas e Design
+
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat&logo=figma)
 
 # 🌐Midia Social
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipesantanawrk/)
