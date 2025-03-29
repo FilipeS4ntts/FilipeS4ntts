@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Estudante+de+T.I;Full+Stack+Web+Developer;Designer+e+Artista;DS%20|%20AI%20|%20ML%20Enthusiastic;Sempre%20aprendendo%20novas%20coisas&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Estudante+de+T.I;Full+Stack+Web+Developer;Designer+e+Artista;Sempre%20aprendendo%20novas%20coisas&center=true&width=380&height=45">
 	</a>
 </p>
 
